@@ -1,5 +1,6 @@
-Code for my MSc thesis: **"Extending Differentially Private Fine-Tuning of
-Wearable Foundation Models with Heart Rate Signals."**
+Code for: **"Multimodal Human Activity Recognition from
+Wearable Sensors Under Local Differential
+Privacy Constraints"**
 
 This project studies privacy-preserving multimodal Human Activity Recognition
 (HAR), fusing heart rate (HR) and IMU data on the PAMAP2 dataset
